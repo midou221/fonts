@@ -3,7 +3,8 @@
   "data": [
     {
       "family" : "Rubik",
-      "link": "https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UE80V4bVkA.ttf"
+      "link": "https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UE80V4bVkA.ttf",
+      "lang" : "arabic"
     }
     
     ]
