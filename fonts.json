@@ -1339,6 +1339,21 @@
   },
   "category": "sans-serif",
   "kind": "webfonts#webfont"
+},
+
+
+	  {
+  "family": "Mate",
+  "variants": ["regular", "italic"],
+  "subsets": ["latin"],
+  "version": "v14",
+  "lastModified": "2022-09-22",
+  "files": {
+    "regular": "http://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ2z28WoXSaLU.ttf",
+    "italic": "http://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-2XqfXeLVdbw.ttf"
+  },
+  "category": "serif",
+  "kind": "webfonts#webfont"
 }
 
     
