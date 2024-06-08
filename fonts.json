@@ -1296,8 +1296,68 @@
   },
   "category": "monospace",
   "kind": "webfonts#webfont"
+},
+
+{
+  "family": "Noto Sans Ethiopic",
+  "variants": ["100", "200", "300", "regular", "500", "600", "700", "800", "900"],
+  "subsets": ["ethiopic", "latin", "latin-ext"],
+  "version": "v42",
+  "lastModified": "2022-12-08",
+  "files": {
+    "100": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T35OKqDjwmfeaY9u.ttf",
+    "200": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T37OK6DjwmfeaY9u.ttf",
+    "300": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T34QK6DjwmfeaY9u.ttf",
+    "500": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T358K6DjwmfeaY9u.ttf",
+    "600": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T36QLKDjwmfeaY9u.ttf",
+    "700": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T36pLKDjwmfeaY9u.ttf",
+    "800": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T37OLKDjwmfeaY9u.ttf",
+    "900": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T37nLKDjwmfeaY9u.ttf",
+    "regular": "http://fonts.gstatic.com/s/notosansethiopic/v42/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T35OK6DjwmfeaY9u.ttf"
+  },
+  "category": "sans-serif",
+  "kind": "webfonts#webfont"
+},
+
+
+{
+  "family": "Noto Sans Armenian",
+  "variants": ["100", "200", "300", "regular", "500", "600", "700", "800", "900"],
+  "subsets": ["armenian", "latin", "latin-ext"],
+  "version": "v39",
+  "lastModified": "2022-09-28",
+  "files": {
+    "100": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorxbq0iYy6zF3Eg.ttf",
+    "200": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopxb60iYy6zF3Eg.ttf",
+    "300": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLoqvb60iYy6zF3Eg.ttf",
+    "500": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorDb60iYy6zF3Eg.ttf",
+    "600": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLoovaK0iYy6zF3Eg.ttf",
+    "700": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLooWaK0iYy6zF3Eg.ttf",
+    "800": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopxaK0iYy6zF3Eg.ttf",
+    "900": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLopYaK0iYy6zF3Eg.ttf",
+    "regular": "http://fonts.gstatic.com/s/notosansarmenian/v39/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorxb60iYy6zF3Eg.ttf"
+  },
+  "category": "sans-serif",
+  "kind": "webfonts#webfont"
+},
+
+
+	  {
+  "family": "Mate",
+  "variants": ["regular", "italic"],
+  "subsets": ["latin"],
+  "version": "v14",
+  "lastModified": "2022-09-22",
+  "files": {
+    "regular": "http://fonts.gstatic.com/s/mate/v14/m8JdjftRd7WZ2z28WoXSaLU.ttf",
+    "italic": "http://fonts.gstatic.com/s/mate/v14/m8JTjftRd7WZ6z-2XqfXeLVdbw.ttf"
+  },
+  "category": "serif",
+  "kind": "webfonts#webfont"
 }
 
     
-    ]
+]
+
+	
 }
