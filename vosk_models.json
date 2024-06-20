@@ -428,6 +428,7 @@
         "size": 886550611,
         "size_text": "845.5MiB",
         "type": "big",
+        "ignore": "true",
         "url": "https://alphacephei.com/vosk/models/vosk-model-en-us-librispeech-0.2.zip",
         "version": "librispeech-0.2"
     },
